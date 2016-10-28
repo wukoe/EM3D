@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 12 15:44:28 2016
+data process for image
+@author: wubia
+"""
+import matplotlib.pyplot as plt
+import numpy as np
+
